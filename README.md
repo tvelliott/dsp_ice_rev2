@@ -19,4 +19,7 @@ Low Noise 3.3V supply
 10/100 Mbps Ethernet Interface  (DMA supported,  90+ Mbps IPerf results)
 PDM Microphone connected to FPGA
 </PRE>
+  
+<BR><BR>If you are looking for something similar, but with firmware / HDL code now,  take a look at DSP_ICE Rev 1 here
+<BR>https://github.com/tvelliott/dsp_ice 
 </html>
