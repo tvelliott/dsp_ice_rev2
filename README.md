@@ -20,6 +20,6 @@ Low Noise 3.3V supply
 PDM Microphone connected to FPGA
 </PRE>
   
-<BR><BR>If you are looking for something similar, but with firmware / HDL code now,  take a look at DSP_ICE Rev 1 here
+<BR><BR>If you are looking for something similar, but with firmware / HDL code already available,  take a look at DSP_ICE Rev 1 here
 <BR>https://github.com/tvelliott/dsp_ice 
 </html>
